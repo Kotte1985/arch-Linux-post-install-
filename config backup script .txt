@@ -1,0 +1,16 @@
+ 
+tar cvzf configs-backup.tgz .config/
+tar -xvf configs-backup.tgz
+
+https://www.dropbox.com/s/oktygowaeigvhrm/configs-backup.tgz?dl=0
+
+tar cvzf powerlevel10k.tgz powerlevel10k
+tar -xvf powerlevel10k.tgz
+
+
+https://www.dropbox.com/s/4k46r64ir2yl104/powerlevel10k.tgz?dl=0
+
+
+ArchTitus
+
+https://www.dropbox.com/s/zgfb5pfrdugtjp5/ArchTitus.tgz?dl=0
